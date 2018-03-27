@@ -49,6 +49,7 @@
                         <li><a href="/companies/{{$company->id}}/edit">Edit</a></li>
                         <li><a href="#">Delete</a></li>
                         <li><a href="#">Add new member</a></li>
+                        <li><a href="/projects/create">Add project</a></li>
                         <li>
                             <a href="#" onclick="
 var result=confirm('Are you sure you wish to delete this project?');
